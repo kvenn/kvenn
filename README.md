@@ -15,7 +15,8 @@
 
 ![SO's Flair](https://stackoverflow.com/users/flair/1759443.png?theme=dark)
 
+### Public Github Stats
 <div>
-   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenn&theme=dark&layout=compact" /> 
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kvenn&show_icons=true&theme=dark" />
+   <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvenn&theme=tokyonight&layout=compact&count_private=true&show_icons=true" /> 
+   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kvenn&show_icons=true&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
