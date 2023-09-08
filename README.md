@@ -3,7 +3,11 @@
 - 🔭 Working on: a new social app startup
 - 🌱 Attemping to master: Flutter, rock climbing, and Spikeball. If you have resources on any of those, send them my way!
 - 👯 Hiring: people who love hacking on stuff
-- 💬 Ask me about: mobile development, growing a team, or how to get started on a side project
+- 💬 Ask me about:
+   - mobile development (native iOS, Android, Flutter)
+   - full-stack architecture (FE+BE)
+   - scaling a team
+   - how to get started on a side project
 - 📫 How to reach me: 
    - email
    - <a title="Twitter" href="https://twitter.com/kylevenn">
