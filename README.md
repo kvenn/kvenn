@@ -18,6 +18,7 @@
 - ⚡ Fun fact: My first mobile app in the store was [Cat Facts](https://www.catfacts.co) in 2014
 
 ### StackOverflow
+
 ![SO's Flair](https://stackoverflow.com/users/flair/1759443.png?theme=dark)
 
 ### Public Github Stats
