@@ -19,6 +19,7 @@
 
 ### StackOverflow
 
+[Link to Account](https://stackoverflow.com/users/1759443/kyle-venn)
 ![SO's Flair](https://stackoverflow.com/users/flair/1759443.png?theme=dark)
 
 ### Public Github Stats
